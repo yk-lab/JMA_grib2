@@ -5,6 +5,10 @@ verify_ssl = true
 
 [dev-packages]
 twine = "*"
+sphinx = "*"
+sphinx-autobuild = "*"
+sphinx-rtd-theme = "*"
+m2r = "*"
 
 [packages]
 numpy = "*"
